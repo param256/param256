@@ -138,6 +138,7 @@ body {
       .label {
         cursor: pointer;
         position: relative;
+        display: block;
       }
       .date {
         /*margin-right: 10px;*/
