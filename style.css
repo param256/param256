@@ -1,6 +1,7 @@
 body {
-        background-color: #f3f3f3;
+        background-color: #fff;
         /*display: block;*/
+        padding: 10px 20px;
       }
       .page-wrapper {
         font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
